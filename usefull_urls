@@ -5,10 +5,8 @@ https://www.kloia.com/blog/openshift-vs-rancher
 https://rancher.com/blog/2020/gain-better-visibility-kubernetes-cost-allocation
 https://medium.com/@Tristan.vi/how-we-divided-our-hosting-costs-by-10-using-rancher-and-docker-d3cb69855956
 https://medium.com/@Tristan.vi/how-we-divided-our-hosting-costs-by-10-using-rancher-and-docker-d3cb69855956
-https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA
 https://levelup.gitconnected.com/l4-vs-l7-load-balancing-d2012e271f56
 https://rancher.com/docs/rancher/v1.6/en/hosts/#supported-docker-versions ?
-http://10.5.3.63:8080/v2-beta/services/1s1
 https://rancher.com/blog/2019/announcing-k3os-kubernetes-operating-system/
 https://www.google.com/url?sa=t&source=web&rct=j&url=https://rancher.com/docs/rancher/v2.x/en/overview/architecture/&ved=2ahUKEwiN9JKtubvsAhW4DmMBHdVdC-wQFjAAegQIARAB&usg=AOvVaw0OB4R9On6TlJQwk81OJmNZ&cshid=1602931556727
 https://github.com/cncf/landscape
@@ -46,9 +44,6 @@ Some open FHIR examples : https://github.com/srdc/onfhir
 https://wiki.postgresql.org/wiki/Scaleout_Design
 Kafka-Connect-Zeebe via Kubernetes on GCP. Code is here: https://github.com/berndruecker...
 https://www.youtube.com/watch?v=58WzGkess1s
-https://drive.google.com/file/d/107CAYfZX4ZwKb6-VCYiTUVFrloracs_e/view?usp=sharing
-https://drive.google.com/file/d/107CAYfZX4ZwKb6-VCYiTUVFrloracs_e/view?usp=sharing
-https://drive.google.com/file/d/107CAYfZX4ZwKb6-VCYiTUVFrloracs_e/view?usp=sharing
 https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067
 https://blog.timescale.com/blog/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af/
 https://medium.com/@eddies_47682/how-to-run-highly-available-postgres-on-kubernetes-2f497ed7ee83
@@ -57,7 +52,6 @@ www.scalingpostgres.com
 https://www.scalingpostgres.com/
 www.youtube.com
 https://www.youtube.com/playlist?list=PLdTaEgcmPg9Kl539gyIFtWL0-cqk3m7v9
-https://drive.google.com/file/d/107CAYfZX4ZwKb6-VCYiTUVFrloracs_e/view?usp=sharing
 https://docs.google.com/spreadsheets/d/136PhZhqP0A-lzAZdZNTrpP4__X0NfCoa1rHS2pbg1a0/edit?usp=sharing
 https://cloud.google.com/blog/products/data-analytics/data-lakes-in-cloud-with-kafka-and-confluent
 www.xenonstack.com
